@@ -1,5 +1,5 @@
 package com.diamondmarket.middleService.api;
 
-public class updateApiController {
+public class UpdateApiController {
 
 }
